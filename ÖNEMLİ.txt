@@ -1,0 +1,4 @@
+https://docs.sqlalchemy.org/en/13/dialects/sqlite.html#date-and-time-types
+date tipini kullandım
+2011-03-15 tarih biçimi
+formdan gelen veriyi datetime.strptime ile Y-m-d tipine çevirip sorguda kullan
